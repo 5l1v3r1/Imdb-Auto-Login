@@ -7,7 +7,7 @@ input=driver.find_element_by_xpath('//*[@id="ap_email"]')
 input.send_keys('naanuneenu123@gmail.com')
 
 input=driver.find_element_by_xpath('//*[@id="ap_password"]')
-input.send_keys('ypemadiddu')
+input.send_keys('typemadiddu')
 
 input=driver.find_element_by_xpath('//*[@id="signInSubmit"]')
 input.click()
